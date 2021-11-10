@@ -4,6 +4,7 @@ Created an interactive educational board about space exploration. GUI created th
 For a detailed description, have a look at the report.
 
 <div align='center'>
+  
   ![image](https://user-images.githubusercontent.com/81230042/141137226-50cc1584-6b2b-4531-a5b5-5ae93a3c22bb.png)
   
     Picture 1: Interactive board
